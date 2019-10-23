@@ -2,7 +2,9 @@
 
 ### Eluvio API Challenge ###
 
-Eluvio is creating a revolutionary approach for distributing and monetizing video content over the Internet, based on content-centric and decentralized design. The Eluvio Content Fabric is a global software overlay network that allows Content providers to distribute premium video globally including on demand video, live streams, and hybrid (linear, live and on demand) video experiences, direct to viewers without CDNs, aggregators, or transcoding services. The viewer experience is "instant on" low latency and high quality. 
+Eluvio is creating a revolutionary approach for distributing and monetizing video content over the Internet, based on content-centric and decentralized design. 
+
+The Eluvio Content Fabric is a global software overlay network that allows content providers to distribute premium video including on demand video, live streams, and hybrid experiences, direct to viewers without CDNs, aggregators, or transcoding services. The viewer experience is "instant on" low latency and high quality. 
 
 Blockchain contracts back every content object (media asset) in the Content Fabric and all content objects have programmable "code", so new opportunities for monetizing media, achieving personalization, and creating new interactive / gamified experiences is possible, and rights control can be built in.
 
