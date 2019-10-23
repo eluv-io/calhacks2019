@@ -16,7 +16,8 @@ https://github.com/eluv-io/elv-client-js to create new applications and experien
 - To see our API introduction, visit https://eluv.io/dev
 
 ## What Technologies will you learn? ##
-- blockchain contracts
+- blockchain contracts 
+- blockchain wallet authentication
 - the core content fabric APIs to organize and manage media assets and metadata (Javascript/JSON RPC/REST)
 - principles of low latency, secure adaptive bit rate video streaming
 - video player integration.
