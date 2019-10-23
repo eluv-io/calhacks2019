@@ -13,7 +13,7 @@ https://github.com/eluv-io/elv-client-js to create new applications and experien
 
 - To see our platform in action and an example use of our API, visit https://eluv.io/stream-sample
 
-- To see our API introduction, visit https://eluvi.io/dev
+- To see our API introduction, visit https://eluv.io/dev
 
 ## What Technologies will you Use? ##
 - blockchain contracts
