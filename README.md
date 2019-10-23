@@ -15,11 +15,11 @@ https://github.com/eluv-io/elv-client-js to create new applications and experien
 
 - To see our API introduction, visit https://eluvi.io/dev
 
-## What Technologies will you Learn? ##
+## What Technologies will you Use? ##
 - blockchain contracts
-- the core content fabric APIs to organize and manage media assets and metadata
-- principles of low latency
-- secure adaptive bit rate video streaming and video player integration.
+- the core content fabric APIs to organize and manage media assets and metadata (Javascript/JSON RPC/REST)
+- principles of low latency, secure adaptive bit rate video streaming
+- video player integration.
 
 ## Prizes ##
 1st Place Team - Jabra AI Noise Cancelling Headphones (up to 4), invie to Eluvio HQ exclusive open house, 
