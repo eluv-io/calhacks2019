@@ -1,6 +1,6 @@
 # calhacks2019
 
-## Eluvio API Challenge ##
+# Eluvio API Challenge #
 
 Eluvio is creating a revolutionary approach for distributing and monetizing video content over the Internet, based on content-centric and decentralized design. 
 
@@ -8,7 +8,7 @@ The Eluvio Content Fabric is a global software overlay network that allows conte
 
 Blockchain contracts back every content object (media asset) in the Content Fabric and all content objects have programmable "code", so new opportunities for monetizing media, achieving personalization, and creating new interactive / gamified experiences is possible, and rights control can be built in.
 
-#### At CalHacks 6.0 Eluvio is sponsoring a challenge to use our elv-client APIs ####
+## At CalHacks 6.0 Eluvio is sponsoring a challenge to use our elv-client APIs ##
 https://github.com/eluv-io/elv-client-js to create new applications and experiences that take advantage of the platform's unique capabilities to publish and globally stream and monetize audio/video content. 
 
 - To see our platform in action and an example use of our API, visit https://eluv.io/stream-sample
@@ -22,9 +22,11 @@ https://github.com/eluv-io/elv-client-js to create new applications and experien
 - video player integration.
 
 ## Prizes ##
-#### 1st Place Team #### - Jabra AI Noise Cancelling Headphones (up to 4), invie to Eluvio HQ exclusive open house, 
+#### 1st Place Team ####
+Jabra AI Noise Cancelling Headphones (up to 4), invie to Eluvio HQ exclusive open house, 
 priority for summer internships
-#### 2nd Place Team #### - Eluvio branded backpacks (up to 4), invie to Eluvio HQ exclusive open house
+#### 2nd Place Team ####
+Eluvio branded backpacks (up to 4), invite to Eluvio HQ exclusive open house
 
 ## Workshop and Support ##
 Our team is hosting a workshop as well on Saturday at 11 AM.
