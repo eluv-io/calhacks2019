@@ -23,10 +23,9 @@ https://github.com/eluv-io/elv-client-js to create new applications and experien
 
 ## Prizes ##
 #### 1st Place Team ####
-Jabra AI Noise Cancelling Headphones (up to 4), invie to Eluvio HQ exclusive open house, 
-priority for summer internships
+Jabra AI Noise Cancelling Headphones (up to 4), invite to Eluvio HQ exclusive open house, priority for internship
 #### 2nd Place Team ####
-Eluvio branded backpacks (up to 4), invite to Eluvio HQ exclusive open house
+Eluvio branded backpacks (up to 4), invite to Eluvio HQ exclusive open house, priority for internship
 
 ## Workshop and Support ##
 Our team is hosting a workshop as well on Saturday at 11 AM.
