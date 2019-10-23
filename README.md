@@ -11,11 +11,15 @@ Blockchain contracts back every content object (media asset) in the Content Fabr
 #### At CalHacks 6.0 Eluvio is sponsoring a challenge to use our elv-client APIs ####
 https://github.com/eluv-io/elv-client-js to create new applications and experiences that take advantage of the platform's unique capabilities to publish and globally stream and monetize audio/video content. 
 
--To see our platform in action and an example use of our API, visit https://eluv.io/stream-sample
+- To see our platform in action and an example use of our API, visit https://eluv.io/stream-sample
 
--To see our API introduction, visit https://eluvi.io/dev
+- To see our API introduction, visit https://eluvi.io/dev
 
-In using the APIs, you will be using blockchain contracts and the core content fabric APIs to organize and manage media assets and metadata, and you will learn the principles of adaptive bit rate video streaming and video player integration.
+## What Technologies will you Learn? ##
+- blockchain contracts
+- the core content fabric APIs to organize and manage media assets and metadata
+- principles of low latency
+- secure adaptive bit rate video streaming and video player integration.
 
 ## Prizes ##
 1st Place Team - Jabra AI Noise Cancelling Headphones (up to 4), invie to Eluvio HQ exclusive open house, 
