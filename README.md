@@ -32,6 +32,6 @@ Eluvio branded backpacks (up to 4), invite to Eluvio HQ exclusive open house, pr
 Our team is hosting a workshop as well on Saturday at 11 AM.
 The Eluvio engineering team responsible for these APIs will be onhand and available on the Eluvio slack channel during the hackathon to answer questions. We will be providing accounts on our demo content fabric (https://core.demo.contentfabric.io) for you to use as your fabric platform.
 
-For more information about eluvio, see our web site at (https://eluv.io)
+For more information about eluvio, see our [web site](https://eluv.io)
 
 To be invited to our slack channel, please use the following [Google Form](https://forms.gle/HfY6fZRakkZRGFhN6).
