@@ -24,7 +24,7 @@ Use [`elv-client-js`](https://github.com/eluv-io/elv-client-js) to create new ap
 
 ## Prizes ##
 #### 1st Place Team ####
-[Apple Airpods with wireless charging](https://www.apple.com/shop/product/MV7N2AM/A/airpods-with-charging-case) (up to 5)
+[Apple Airpods with Wireless Charging](https://www.apple.com/shop/product/MRXJ2/airpods-with-wireless-charging-case) (up to 5)
 #### 2nd Place Team ####
 Eluvio branded backpacks (up to 5)
 
